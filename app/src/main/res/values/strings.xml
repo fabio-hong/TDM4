@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TDM4</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="toast_senha">Preencha a senha</string>
+    <string name="toast_email">Preencha o e-mail</string>
+    <string name="toast_nome">Preencha o nome</string>
+    <string name="toast_senhaForte">Digite senha mais forte</string>
+    <string name="toast_senhaInvalida">Senha ou e-mail inválidos</string>
+    <string name="toast_contaExiste">Essa conta já existe</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="toast_usuarioInvalido">Usuário inválido</string>
+    <string name="toast_emailSenhaIncorretos">E-mail ou senha incorretos</string>
+    <string name="toast">clicado</string>
+    <string name="teste">teste</string>
+    <string name="saque">saque</string>
+    <string name="jogo">jogo</string>
+    <string name="deuRuim">deu ruim</string>
+    <string name="a">acertou posicao</string>
+    <string name="b">acertou posicao</string>
+    <string name="c">errou posicao</string>
+    <string name="d">acertou efeito</string>
+    <string name="e">acertou efeito</string>
+    <string name="f">errou efeito</string>
+    <string name="ainda_e_saque">ainda é saque</string>
+</resources>
